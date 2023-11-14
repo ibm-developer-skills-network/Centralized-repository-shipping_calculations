@@ -10,4 +10,6 @@ shipping_cost = weight * rate
 ## Display the result
 print(f"Shipping Cost: {shipping_cost} USD")
 
-# File added by <your GitHub username>
+# File added by Sundar-05
+
+ # Here is a new update by Sundar-05
