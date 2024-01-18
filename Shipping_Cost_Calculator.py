@@ -1,5 +1,4 @@
 # Here is a new update by SonOfKhaos
-# Here is another update by <your GitHub username>
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
