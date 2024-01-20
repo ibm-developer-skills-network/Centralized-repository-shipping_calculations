@@ -1,6 +1,3 @@
-# Here is another update by ahmadfaransiddiqui
-# Here is a new update by ahmadfaransiddiqui
- 
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
