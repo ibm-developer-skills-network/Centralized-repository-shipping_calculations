@@ -1,3 +1,5 @@
+# Here is a new update by Lucky Alade
+
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
