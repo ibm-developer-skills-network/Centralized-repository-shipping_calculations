@@ -1,5 +1,5 @@
 # Here is a new update by tmaitland
-# Here is another update by tmaitland
+
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
