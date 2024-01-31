@@ -1,5 +1,5 @@
 # LogisticsShippingRates
-Please consider the below factors while contributing
+2023 XYZ, Inc
 
 Code Style:
 Maintain a consistent code style for readability.
