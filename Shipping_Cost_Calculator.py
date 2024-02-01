@@ -1,5 +1,4 @@
 # Here is a new update by Waqas Farrukh
-# Here is another update by Waqas Farrukh
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
