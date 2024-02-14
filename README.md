@@ -1,22 +1,16 @@
-# LogisticsShippingRates
-Please consider the below factors while contributing
+# Introduction to Git and GitHub
 
-Code Style:
-Maintain a consistent code style for readability.
+## Simple Interest Calculator
 
-Documentation:
-Ensure well-documented code for effective collaboration.
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
-Testing:
-Thoroughly test your changes before submitting a pull request.
+```
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
+```
 
-Issue Tracker:
-Check the Issue Tracker for tasks.
-
-Code Review:
-All contributions undergo a code review process.
-
-Licensing:
-Contributions are licensed.
-
-2023 XYZ, Inc.
+_© 2023 XYZ, Inc._
