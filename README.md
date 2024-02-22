@@ -18,3 +18,5 @@ All contributions undergo a code review process.
 
 Licensing:
 Contributions are licensed.
+1
+@2024 XYZ, Inc
