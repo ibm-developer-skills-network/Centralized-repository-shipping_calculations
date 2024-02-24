@@ -12,5 +12,3 @@ print(f"Shipping Cost: {shipping_cost} USD")
 
 # Here is a new update by dotalw
 print("`0773H")
-
-# Here is another update by dotalw
