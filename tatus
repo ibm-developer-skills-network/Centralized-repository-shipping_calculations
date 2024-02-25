@@ -1,0 +1,82 @@
+[33mcommit 717eb6cbd8d6a03817ecfb1b4541203411af90e6[m[33m ([m[1;36mHEAD -> [m[1;32mshipping_calculator_fixes[m[33m, [m[1;31morigin/shipping_calculator_fixes[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: lavskillup <73978832+lavskillup@users.noreply.github.com>
+Date:   Thu Dec 7 22:46:18 2023 +1100
+
+    Update Shipping_Cost_Calculator.py
+
+[33mcommit f7a92cc6a8809009b42ca9e36603faed9bc182d5[m
+Author: Sklup55 <85282385+Sklup55@users.noreply.github.com>
+Date:   Thu Nov 23 09:46:53 2023 +0530
+
+    Update Shipping_Cost_Calculator.py
+
+[33mcommit 96c24af0ce3fd75f593456f75cd9e8fa3c6d6796[m
+Merge: 0b9f035 881c1ef
+Author: Sklup55 <85282385+Sklup55@users.noreply.github.com>
+Date:   Thu Nov 23 09:44:02 2023 +0530
+
+    Merge pull request #1 from Sklup55/main
+    
+    Pushing from forked repo to the Centralized repo
+
+[33mcommit 881c1efd1adae25f69bda69b17b020d8e2616afd[m
+Author: Sklup55 <85282385+Sklup55@users.noreply.github.com>
+Date:   Thu Nov 23 09:43:44 2023 +0530
+
+    Update Shipping_Cost_Calculator.py
+
+[33mcommit 0b9f0358030cd42f5d1faf2b6aafe885c2b9d97c[m
+Author: lavskillup <73978832+lavskillup@users.noreply.github.com>
+Date:   Thu Nov 23 15:03:39 2023 +1100
+
+    Create close_pr.yml
+
+[33mcommit d943fd4f7d28f5a5faa2190052b5ee83d1abf59c[m
+Merge: 566e488 3158b9f
+Author: Sklup55 <85282385+Sklup55@users.noreply.github.com>
+Date:   Mon Nov 13 13:51:12 2023 +0530
+
+    Merge pull request #2 from Sklup55/shipping_calculator_version2
+    
+    Shipping calculator version2
+
+[33mcommit 3158b9ffe8912c8b2e8f561e6808f165857f5786[m
+Author: Sklup55 <ksundararajan@skillup.tech>
+Date:   Mon Nov 13 03:11:31 2023 -0500
+
+    Revert "added additional line to Shipping_Cost_Calculator.py"
+    
+    This reverts commit 75cdb3359241f7c8563c97b043f60c37d0e2618c.
+
+[33mcommit 75cdb3359241f7c8563c97b043f60c37d0e2618c[m
+Author: Sklup55 <ksundararajan@skillup.tech>
+Date:   Mon Nov 13 03:11:22 2023 -0500
+
+    added additional line to Shipping_Cost_Calculator.py
+
+[33mcommit 566e48805cd6d0a1fa4754569950a84749f538a8[m
+Merge: 45a5b23 fcda5ab
+Author: Sklup55 <85282385+Sklup55@users.noreply.github.com>
+Date:   Mon Nov 13 12:45:42 2023 +0530
+
+    Merge pull request #1 from Sklup55/shipping_calculator_version2
+    
+    new update
+
+[33mcommit fcda5ab4fcbeaaa3e5f769e561711744d31a4e66[m
+Author: Sklup55 <ksundararajan@skillup.tech>
+Date:   Mon Nov 13 02:05:43 2023 -0500
+
+    new update
+
+[33mcommit 45a5b231d3971dbb6964a8669ea3d27df54ca321[m
+Author: lavskillup <lavanyas@skillup.tech>
+Date:   Mon Nov 6 18:30:52 2023 +1100
+
+    Added the files
+
+[33mcommit dfa677c2156a25a1e0668d4de0f2d3a1ecb8e8fe[m
+Author: ibm-skills-network-bot <70593948+ibm-skills-network-bot@users.noreply.github.com>
+Date:   Mon Nov 6 02:28:37 2023 -0500
+
+    Initial commit
