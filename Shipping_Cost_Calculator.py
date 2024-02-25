@@ -1,3 +1,6 @@
+# Here is a new update by EvgenyDibrovsky
+# Here is another update by EvgenyDibrovsky
+
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
