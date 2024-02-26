@@ -1,4 +1,4 @@
-# Here is a new update by Adritek
+# Here is a brand new update by Adritek
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
