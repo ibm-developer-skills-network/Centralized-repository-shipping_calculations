@@ -12,6 +12,3 @@ print(f"Shipping Cost: {shipping_cost} USD")
 
 
  # Here is a new update by sfisoc
-
- git config --global user.email "gammer4live@gmail.com"
- git config --global user.name "Sfisoc"
