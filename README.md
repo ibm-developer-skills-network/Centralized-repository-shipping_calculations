@@ -17,6 +17,10 @@ Code Review:
 All contributions undergo a code review process.
 
 New Features:
+All new features mmust be specifed here...
+
+
+
 
 Licensing:
 Contributions are licensed.
