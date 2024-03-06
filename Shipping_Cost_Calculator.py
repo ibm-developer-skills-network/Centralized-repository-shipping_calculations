@@ -6,7 +6,7 @@ rate = float(input("Enter the shipping rate per kilogram: "))
 
 ## Calculate shipping cost
 if (weight>50):
-    print("IMpossivel entregar")
+    print("Impossivel entregar")
 else:
     shipping_cost = weight * rate
     ## Display the result
