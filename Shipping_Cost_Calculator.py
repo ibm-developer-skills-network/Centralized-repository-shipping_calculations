@@ -1,3 +1,4 @@
+# New update by clemens@clemens.com
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
