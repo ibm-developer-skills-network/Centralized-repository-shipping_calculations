@@ -1,3 +1,4 @@
+# Additional Comment
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
