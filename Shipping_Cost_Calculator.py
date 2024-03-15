@@ -11,4 +11,4 @@ shipping_cost = weight * rate
 print(f"Shipping Cost: {shipping_cost} USD")
 
 github_username = "dogukanzorer"
-
+ # Here is a new update by <dogukanzorer>
