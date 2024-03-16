@@ -1,4 +1,3 @@
-# Here is another update by Neuwa
 # Here is a new update by Neuwa
 # Shipping Cost Calculator
 
