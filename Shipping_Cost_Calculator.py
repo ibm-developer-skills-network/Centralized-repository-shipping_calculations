@@ -1,5 +1,4 @@
 # Here is a new update by AIdevsmartdata
-# Here is another update by AIdevsmartdata
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
