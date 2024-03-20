@@ -1,4 +1,4 @@
-# Here is a new update by TINTINCR1
+# =>  Here is a new update by TINTINCR1
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
