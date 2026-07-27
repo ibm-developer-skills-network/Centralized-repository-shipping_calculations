@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Dashboard</title>
+{% include "base_style.html" %}
+</head>
+<body>
+  <div class="card">
+    <h1>Welcome, {{ username }}!</h1>
+
+    <label for="weight">Package weight (kg)</label>
+    <input type="number" id="weight" step="any" min="0" placeholder="e.g. 5">
+
+    <label for="rate">Shipping rate (per kg)</label>
+    <input type="number" id="rate" step="any" min="0" placeholder="e.g. 3.50">
+
+    <button onclick="calculate()">Calculate</button>
+
+    <div id="result"></div>
+
+    <div class="link-row">
+      <a href="{{ url_for('logout') }}">Log out</a>
+    </div>
+  </div>
+
+<script>
+  function calculate() {
+    const weight = parseFloat(document.getElementById('weight').value);
+    const rate = parseFloat(document.getElementById('rate').value);
+    const resultEl = document.getElementById('result');
+
+    if (isNaN(weight) || isNaN(rate) || weight < 0 || rate < 0) {
+      resultEl.textContent = 'Please enter valid, non-negative numbers.';
+      return;
+    }
+
+    const shippingCost = weight * rate;
+    resultEl.textContent = `Shipping Cost: ${shippingCost.toFixed(2)} USD`;
+  }
+</script>
+</body>
+</html>
