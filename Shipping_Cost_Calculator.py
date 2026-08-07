@@ -1,5 +1,4 @@
-# Here is a new update by pghoshutp-prog
-# Here is another update by pghoshutp-prog
+ # Here is a new update by pghoshutp-prog
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
