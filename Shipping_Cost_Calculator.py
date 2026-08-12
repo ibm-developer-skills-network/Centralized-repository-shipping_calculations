@@ -1,7 +1,5 @@
  # Here is a new update by GitHub_username
 
-# Here is another update by GitHub_username
-
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
