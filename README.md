@@ -18,3 +18,7 @@ All contributions undergo a code review process.
 
 Licensing:
 Contributions are licensed.
+
+## Usage
+
+Run `Shipping_Cost_Calculator.py`, then enter the package weight and shipping rate when prompted.
