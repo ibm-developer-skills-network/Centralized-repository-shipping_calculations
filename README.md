@@ -22,5 +22,3 @@ Contributions are licensed.
 ## Usage
 
 Run `Shipping_Cost_Calculator.py`, then enter the package weight and shipping rate when prompted.
-
-Temporary draft note.
