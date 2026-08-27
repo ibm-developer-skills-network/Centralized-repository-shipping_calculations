@@ -1,6 +1,5 @@
 # Shipping Cost Calculator
 # Here is a new update by AbdoYassin
-# Here is another update by AbdoYassin
 
 
 ## Input package weight and shipping rate
