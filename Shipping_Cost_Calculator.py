@@ -1,8 +1,6 @@
 # Shipping Cost Calculator
 
 # Here is a new update by DebraElkins@comcast.net
-# Here is a second update by DebraElkins@comcast.net
-
 
 ## Input package weight and shipping rate
 weight = float(input("Enter the package weight in kilograms: "))
