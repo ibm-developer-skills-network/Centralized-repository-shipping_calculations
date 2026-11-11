@@ -1,4 +1,4 @@
-# Here is a new update by opoch123
+# Here is a new update by user opoch123
 
 # Shipping Cost Calculator
 
