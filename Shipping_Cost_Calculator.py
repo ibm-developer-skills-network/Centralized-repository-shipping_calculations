@@ -1,5 +1,3 @@
-# Here is a new update by iv4n0ff
-
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
