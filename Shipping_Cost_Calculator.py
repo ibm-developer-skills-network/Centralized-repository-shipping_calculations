@@ -1,4 +1,3 @@
-# Here is another update by kredigest-star
 # Here is a new update by kredigest-star
 # Shipping Cost Calculator
 
